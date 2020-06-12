@@ -1,0 +1,8 @@
+{
+  "name": "swift-vfs",
+  "version": "0.0.1",
+  "dependencies": {
+    "pkgcloud": "git+https://github.com/IBM-Bluemix/pkgcloud.git#fix-openstack-auth"
+  },
+  "main": "index.js"
+}
